@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@agm/core@^1.0.0-beta.2":
+  version "1.0.0-beta.2"
+  resolved "https://registry.yarnpkg.com/@agm/core/-/core-1.0.0-beta.2.tgz#da15c0a5e86fe9e1178f14c36a3e0ffc14f9ad77"
+
 "@angular/animations@^4.0.0":
   version "4.4.6"
   resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-4.4.6.tgz#fa661899a8a4e38cb7c583c7a5c97ce65d592a35"
